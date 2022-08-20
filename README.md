@@ -11,6 +11,7 @@ after installing python, clone the project into your computer and open a termina
 and activate a python virtual environment, to do that follow the instruction bellow:
 
 1- creating the virtual environment
+
 windows:
 
 ```bash
@@ -23,6 +24,7 @@ python3 -m venv venv
 ```
 
 2- activating the virtual environment
+
 windows:
 
 ```bash
@@ -35,6 +37,7 @@ mac or linux:
 source venv/bin/activate
 ```
 now you have an active virtual environment it is time to install project requirements, for that enter the command bellow:
+
 windows:
 
 ```bash
